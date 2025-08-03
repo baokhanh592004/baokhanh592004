@@ -59,14 +59,33 @@ An enthusiastic and motivated Junior Full-stack Developer with a solid foundatio
 
 ---
 
-### 📫 How to reach me
 
+### 🌐 Socials
 <p align="left">
-  <a href="mailto:baokhanh21qb@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="baokhanh21qb@gmail.com" />
+  <!-- THAY LINK FACEBOOK CỦA BẠN VÀO ĐÂY -->
+  <a href="LINK_FACEBOOK_CUA_BAN" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
-
   <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-b%E1%BA%A3o-kh%C3%A1nh-l%C3%AA-86690a341/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Thẻ thống kê chính -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baokhanh592004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="baokhanh592004's GitHub Stats" />
+</p>
+
+<!-- Thẻ chuỗi đóng góp (Streak) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baokhanh592004&theme=dracula" alt="baokhanh592004's GitHub Streak" />
+</p>
+
+<!-- Thẻ ngôn ngữ sử dụng nhiều nhất -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baokhanh592004&layout=compact&theme=dracula" alt="baokhanh592004's Top Languages" />
 </p>
