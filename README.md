@@ -59,8 +59,8 @@ An enthusiastic and motivated Junior Full-stack Developer with a solid foundatio
 ### 🌐 Socials
 <p align="left">
   <!-- THAY LINK FACEBOOK CỦA BẠN VÀO ĐÂY -->
-  <a href="LINK_FACEBOOK_CUA_BAN" target="blank">
-    <img align="center" src="https://www.facebook.com/ngocbaokhanh.le.3/" alt="Facebook Profile" />
+  <a href="https://www.facebook.com/ngocbaokhanh.le.3/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
   <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-b%E1%BA%A3o-kh%C3%A1nh-l%C3%AA-86690a341/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
