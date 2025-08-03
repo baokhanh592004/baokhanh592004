@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Le Ngoc Bao Khanh
 
-An enthusiastic and motivated Junior Full-stack Developer with a solid foundation in **React, Node.js, and Java Spring Boot**. I'm seeking to apply my technical skills and problem-solving abilities to contribute to building innovative web applications. I'm eager to learn from experienced mentors and grow into a valuable asset for the team.
+An enthusiastic and motivated Intern Full-stack Developer with a solid foundation in **React, Node.js, and Java Spring Boot**. I'm seeking to apply my technical skills and problem-solving abilities to contribute to building innovative web applications. I'm eager to learn from experienced mentors and grow into a valuable asset for the team.
 
 ---
 
