@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Le Ngoc Bao Khanh
 
-<a href="https://github.com/baokhanh592004">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=baokhanh592004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-</a>
-
 An enthusiastic and motivated Junior Full-stack Developer with a solid foundation in **React, Node.js, and Java Spring Boot**. I'm seeking to apply my technical skills and problem-solving abilities to contribute to building innovative web applications. I'm eager to learn from experienced mentors and grow into a valuable asset for the team.
 
 ---
